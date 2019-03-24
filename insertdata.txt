@@ -1,0 +1,1 @@
+insert into admin values(100,'admin',md5(admin));
